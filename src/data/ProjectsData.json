@@ -1,23 +1,26 @@
 [
     {
       "id": 1,
-      "titulo": "projeto1",
-      "saibamais": "https://github.com/realstoman/react-tailwindcss-portfolio/blob/main/src/components/projects/ProjectsGrid.jsx",
-      "linguagens": "abc",
-      "imagem": "1.jpg"
+      "titulo": "TechOcean",
+      "saibamais": "https://github.com/alexiaramalho/TechOcean-GS",
+      "ferramentas": "HTML e CSS",
+      "descricao":"Landing page criada para o projeto da Global Solution, que tinha como objetivo encontrar soluções para diminuir a poluição do mar e o embranquecimento dos corais.",
+      "imagem": "TechOcean2.png"
     },
     {
         "id": 2,
-        "titulo": "projeto2",
-        "saibamais": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos enfrenta o desafio de implantar uma ideia na mente de um alvo.",
-        "linguagens": "abcdefghij",
-        "imagem": "2.jpg"
+        "titulo": "Vinheria",
+        "saibamais": "https://github.com/Acquesta/CP2-Vinheria",
+        "ferramentas": "HTML, JavaScript e CSS",
+        "descricao":"Criação de um site para o projeto da Vinheria Agnello, que faz uso de validações, eventos de clique e condicionais.",
+        "imagem": "Vinheria.png"
     },
     {
         "id": 3,
-        "titulo": "projeto3",
-        "saibamais": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos enfrenta o desafio de implantar uma ideia na mente de um alvo.",
-        "linguagens": "abcasfavasvavscasvfafvasvascvasvvsvacccccccccccccccccccs",
-        "imagem": "3.jpg"
+        "titulo": "API + Sensores + Node-red",
+        "saibamais": "https://github.com/hellen-silvaa/CP04--Edge_computing",
+        "ferramentas": "C++, Node-red e Arduino",
+        "descricao":"Usando a API OpenWeatherMap e o sensor ultrassônico, foi criado um dashboard que atualiza em tempo real.",
+        "imagem": "Nodered.png"
     }
 ]
