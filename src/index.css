@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 .active{
-  border-bottom: 2px solid rgb(236 72 153);
+  border-bottom: 2px solid #db2777;
 }
 

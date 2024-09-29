@@ -39,8 +39,8 @@ function Footer() {
     return ( 
                 <>
                     <footer>
-                        <div className="pt-20 pb-8 mt-20 border-t-2 border-pink-600">
-                            <div className="flex flex-col justify-center items-center mb-12">
+                        <div className="pt-20  mt-20 border-t-2 border-pink-600">
+                            <div className="flex flex-col justify-center items-center mb-10">
                                 <ul className="flex flex-wrap gap-4 justify-center ">
                                     {socialLinks.map((link) => (
                                         <a

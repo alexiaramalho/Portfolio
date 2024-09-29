@@ -2,11 +2,11 @@ import {createBrowserRouter, RouterProvider}from 'react-router-dom'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from "./App";
-import Home from '../pages/Home';
-import Projects from '../pages/Projects';
-import Contact from '../pages/Contact';
-import PageNotFound from '../pages/PageNotFound';
+import Projects from './pages/Projects';
+import Contact from './pages/Contact';
+import PageNotFound from './pages/PageNotFound';
 import "./index.css";
+import Home from './pages/Home';
 
 
 const router = createBrowserRouter([

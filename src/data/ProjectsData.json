@@ -2,19 +2,22 @@
     {
       "id": 1,
       "titulo": "projeto1",
-      "descricao": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos enfrenta o desafio de implantar uma ideia na mente de um alvo.",
-      "imagem": "Andrew.png"
+      "saibamais": "https://github.com/realstoman/react-tailwindcss-portfolio/blob/main/src/components/projects/ProjectsGrid.jsx",
+      "linguagens": "abc",
+      "imagem": "1.jpg"
     },
     {
-        "id": 1,
+        "id": 2,
         "titulo": "projeto2",
-        "descricao": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos enfrenta o desafio de implantar uma ideia na mente de um alvo.",
-        "imagem": "Andrew.png"
+        "saibamais": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos enfrenta o desafio de implantar uma ideia na mente de um alvo.",
+        "linguagens": "abcdefghij",
+        "imagem": "2.jpg"
     },
     {
-        "id": 1,
+        "id": 3,
         "titulo": "projeto3",
-        "descricao": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos enfrenta o desafio de implantar uma ideia na mente de um alvo.",
-        "imagem": "Andrew.png"
+        "saibamais": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos enfrenta o desafio de implantar uma ideia na mente de um alvo.",
+        "linguagens": "abcasfavasvavscasvfafvasvascvasvvsvacccccccccccccccccccs",
+        "imagem": "3.jpg"
     }
 ]
