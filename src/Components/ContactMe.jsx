@@ -58,7 +58,7 @@ function ContactMe() {
                         onChange={(e) => setMessage(e.target.value)}
                         value={message}
                         />             
-                    <div className="flex items-center bg-pink-700 text-white justify-center p-2 rounded-2xl lg:mt-4 lg:p-4">
+                    <div className="flex items-center bg-pink-700 text-white justify-center p-2 rounded-2xl lg:mt-4 lg:p-4 cursor-pointer">
                         <input className="button " type="submit" value="Enviar"/>   
                     </div>
                 </form>
