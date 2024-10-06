@@ -1,9 +1,10 @@
-import AppBanner from "../Components/AppBanner";
+import AboutMe from "../Components/AboutMe";
+
 
 export default function Home() {
     return (
         <>
-            <AppBanner/>
+            <AboutMe/>
         </>
     )
 }
